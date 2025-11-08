@@ -23,3 +23,6 @@ Add-ADGroupMember -Identity "IT_Admins" -Members "Shubby","Liz"
 Add-ADGroupMember -Identity "Sales_Staff" -Members "Adam","Eve"
 
 Write-Host "Active Directory OUs, users, and groups have been successfully created for Shubby.local"
+
+
+// End of Script // 

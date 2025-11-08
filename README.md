@@ -20,7 +20,7 @@ The lab simulates a small Windows network consisting of a domain controller, a f
 | Client 1 | `CL1` | Windows 10/11 | 192.168.1.10 | 2048 MB | 40 GB |
 | Client 2 | `CL2` | Windows 10/11 | 192.168.1.11 | 2048 MB | 40 GB |
 
----
+------
 
 ## 🧠 Summary of Lab Tasks
 1. Enable and configure **Hyper-V**
